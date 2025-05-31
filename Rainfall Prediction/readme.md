@@ -34,4 +34,5 @@ Our analytic approach focuses on developing a predictive model to predict rainfa
 1) The best-performing models were GBC(Gradient Boosting Classifier).
 2) Their simplicity and reduced risk of overfitting made them more effective than complex algorithms, especially with our limited dataset.
 
-![https://tenor.com/view/thank-you-merci-ty-thanks-thanku-gif-7239271062540128493]
+![Thank you](https://media.giphy.com/media/gEP2k49ndOqJDBSPZl/giphy.gif)
+
