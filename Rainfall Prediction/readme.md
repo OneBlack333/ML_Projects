@@ -1,4 +1,4 @@
-Rainfall Prediction Project.
+## Rainfall Prediction Project.
 ![image alt](https://github.com/OneBlack333/Images/blob/e7dc7aff46feb10c7f2a8dea44f96492fdb38630/AI%20generated%20Beautiful%20rain%20day%20view.jpg)
 
 1) Supply Chain & Risk Management: Enabling businesses to anticipate weather-related disruptions, especially in logistics and construction sectors.
