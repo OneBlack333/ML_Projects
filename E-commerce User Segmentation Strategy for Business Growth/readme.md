@@ -10,7 +10,7 @@
 ## Analytical Approach.
 Our analytical approach focuses on developing customer clusters and categorizing them to support targeted e-commerce activities. We will analyze historical shopping data, perform data preprocessing, apply feature engineering techniques, and utilize unsupervised learning methods to identify meaningful customer segments.
 
-## There are 21 features that we are going to use to segment customers into different categories. We have completed feature engineering and data preprocessing.
+#### There are 21 features that we are going to use to segment customers into different categories. We have completed feature engineering and data preprocessing.
 
 ![image alt](https://github.com/OneBlack333/Images/blob/main/features.jpg)
 
