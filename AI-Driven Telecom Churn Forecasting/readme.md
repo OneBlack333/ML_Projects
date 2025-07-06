@@ -14,26 +14,26 @@ Our analytic approach focuses on developing a predictive model to predict churn 
 
 ### These are the features we used to predict rainfall.
 
-gender: Customer’s gender (e.g., Male, Female).
-SeniorCitizen: Indicates if the customer is a senior citizen (1 = Yes, 0 = No).
-Partner: Whether the customer has a partner (Yes or No).
-Dependents: Whether the customer has dependents (Yes or No).
-tenure: Number of months the customer has been with the company.
-PhoneService: Whether the customer has phone service (Yes or No).
-MultipleLines: Whether the customer has multiple phone lines.
-InternetService: Type of internet service (DSL, Fiber optic, or No).
-OnlineSecurity: Whether the customer has online security add-on.
-OnlineBackup: Whether the customer has online backup add-on.
-DeviceProtection: Whether the customer has device protection add-on.
-TechSupport: Whether the customer has tech support add-on.
-StreamingTV: Whether the customer has streaming TV service.
-StreamingMovies: Whether the customer has streaming movies service.
-Contract: Type of contract (Month-to-month, One year, Two year).
-PaperlessBilling: Whether the customer uses paperless billing.
-PaymentMethod: Method of payment (e.g., Electronic check, Mailed check).
-MonthlyCharges: The amount charged to the customer monthly.
-TotalCharges: Total amount charged to the customer.
-Churn: Whether the customer has left the company (Yes or No).
+-- gender: Customer’s gender (e.g., Male, Female).
+-- SeniorCitizen: Indicates if the customer is a senior citizen (1 = Yes, 0 = No).
+-- Partner: Whether the customer has a partner (Yes or No).
+-- Dependents: Whether the customer has dependents (Yes or No).
+-- tenure: Number of months the customer has been with the company.
+-- PhoneService: Whether the customer has phone service (Yes or No).
+-- MultipleLines: Whether the customer has multiple phone lines.
+-- InternetService: Type of internet service (DSL, Fiber optic, or No).
+-- OnlineSecurity: Whether the customer has online security add-on.
+-- OnlineBackup: Whether the customer has online backup add-on.
+-- DeviceProtection: Whether the customer has device protection add-on.
+-- TechSupport: Whether the customer has tech support add-on.
+-- StreamingTV: Whether the customer has streaming TV service.
+-- StreamingMovies: Whether the customer has streaming movies service.
+-- Contract: Type of contract (Month-to-month, One year, Two year).
+-- PaperlessBilling: Whether the customer uses paperless billing.
+-- PaymentMethod: Method of payment (e.g., Electronic check, Mailed check).
+-- MonthlyCharges: The amount charged to the customer monthly.
+-- TotalCharges: Total amount charged to the customer.
+a) Churn: Whether the customer has left the company (Yes or No).
 -- Yes means the customer has left the company (they churned).
 -- No means the customer is still with the company (they did not churn).
 After encoding fetures gets incresase
