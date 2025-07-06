@@ -12,7 +12,7 @@
 
 Our analytic approach focuses on developing a predictive model to predict churn prediction for telecom companny is going to occur or not. We will analyze churn data, perform data preprocessing, feature engineering, and test various machine learning algorithms. We also used Artificial Neural Network(ANN) to increase overall accuracy.
 
-### These are the features we used to predict rainfall.
+## These are the features we used to predict rainfall.
 
 1) gender: Customer’s gender (e.g., Male, Female).
 2) SeniorCitizen: Indicates if the customer is a senior citizen (1 = Yes, 0 = No).
@@ -38,6 +38,8 @@ Our analytic approach focuses on developing a predictive model to predict churn 
 -- No means the customer is still with the company (they did not churn).
 
 Note: After encoding fetures gets incresase
+## MonthlyCharges for pricing Strategy.
+![Image](https://github.com/OneBlack333/Images/blob/main/monthly_charges.png)
 
 ![Thank you](https://media.giphy.com/media/gEP2k49ndOqJDBSPZl/giphy.gif)
 
