@@ -38,8 +38,23 @@ Our analytic approach focuses on developing a predictive model to predict churn 
 -- No means the customer is still with the company (they did not churn).
 
 Note: After encoding fetures gets incresase
+
 ## MonthlyCharges for pricing Strategy.
 ![Image](https://github.com/OneBlack333/Images/blob/main/monthly_charges.png)
+
+## Churn Hotspots:
+
+1) 70–100: Highest churn – Competition issue.
+2) 100–120: Premium churn – Indicating critical peak
+3) <40: Minor churn peak – possibly low-margin but Commitment users.
+
+## Suggestion:
+
+1) Incremental price rises (e.g., 1-2 annually) tied to visible minor feature additions.
+2) Revalue the most churned charges price.
+3) For high value charges give special discount need extra managment.
+4) Split this problematic tier.Create a new tier from 70 - 100 give more features and reduce features below 60.
+5) After A/B testing find the optimal balance between 70-110.
 
 ![Thank you](https://media.giphy.com/media/gEP2k49ndOqJDBSPZl/giphy.gif)
 
