@@ -34,8 +34,8 @@ Our analytic approach focuses on developing a predictive model to predict churn 
 18) MonthlyCharges: The amount charged to the customer monthly.
 19) TotalCharges: Total amount charged to the customer.
 20) Churn: Whether the customer has left the company (Yes or No).
--- Yes means the customer has left the company (they churned).
--- No means the customer is still with the company (they did not churn).
+a) Yes means the customer has left the company (they churned).
+b) No means the customer is still with the company (they did not churn).
 
 Note: After encoding fetures gets incresase
 
